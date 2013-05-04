@@ -1,4 +1,5 @@
-zabbix-templates
+zabbix_templates
 ================
 
-This repository contains templates for the zabbix monitoring system
+This repository contains monitoring templates and external scripts for the zabbix monitoring system.
+
